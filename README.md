@@ -1,2 +1,8 @@
-# WEB-TEMPLATE-001
-A template repo for web based projects that will include use of webpack, sass, and html templating.
+# P3 GLOW & BOUNCE
+
+## Goals
+
+- create simple scene with arcade physics
+- using rexrainbow glow plugin add a ball to bounce around the scene
+- parent a light 2d to the ball
+- add a background with a normal texture to react to light from ball
